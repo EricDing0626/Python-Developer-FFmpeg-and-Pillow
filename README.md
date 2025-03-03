@@ -12,6 +12,7 @@ The video includes an image processed using Pillow (with text overlay and a basi
 
 ## Usage Instructions:
 Run the script from the command line with the required parameters. 
+
 Example:
     python video_generator_with_readme.py --image path/to/your/image.jpg --text "Hello, World!" --transformation rotate --music path/to/your/music.mp3 --duration 5 --output output_video.mp4
 

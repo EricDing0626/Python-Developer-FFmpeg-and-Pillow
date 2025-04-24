@@ -1,4 +1,4 @@
-# Python Developer Test: FFmpeg and Pillow
+# Python Developer: FFmpeg and Pillow
 
 ## Overview:
 This project provides a Python script to generate a short video from an image.
